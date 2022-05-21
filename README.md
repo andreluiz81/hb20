@@ -1,20 +1,17 @@
 ﻿```
-* UPDATE 16/01/2021 - Proyecto Finalizado
-* ADM-Manager Ultimate (Final Version New-Ultimate)
+* ATUALIZADO - 20/05/2022
+* ADM-Manager Ultimate 
 ```
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/blob/master/Imagenes/ADM_ULTIMATE_NEW_FREE.png)
 
 # NEW-ULTIMATE MANAGER
-Es un script con un conjunto de características y herramientas adecuadas para 
-   ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-   VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-   y los usuarios ...
+ESSE SCRIPT IRÁ INSTALAR AUTOMATICAMENTE 
 
 ## :book: Installation
 
 apt-get update -y; apt-get upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/andreluiz81/hb20/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 ```
-ADM-MANAGER (las dependencias faltantes se instalarán automáticamente)
+ADM-MANAGER NOVA VERSÇÃO EDITADA POR ANDRE NET TURBO.
 ```
 ## :scroll: Changelog
 **VERSION: r7.0.8**
@@ -48,9 +45,9 @@ ADM-MANAGER (las dependencias faltantes se instalarán automáticamente)
 ## :book: Installation Utilitarios
 1. [GENERADOR DE KEY ORIGINAL SOURCE CODE NEW-ULTIMATE MANAGER](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/tree/master/Install/Generador)
 
-## :octocat: Credits
-1. @E8th4ver - Developer of New-Ultimate
-2. illuminati Dev Team - Contributor Update 
+## :CREDITO
+@ANDREEJESUS 
+2022 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+VEM SER FELIZ
 ```
