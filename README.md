@@ -7,7 +7,7 @@
 # NEW-ULTIMATE MANAGER
 ESSE SCRIPT IRÁ INSTALAR AUTOMATICAMENTE 
 
-## :book: Installation
+## :book: INSTALAÇÃO
 
 apt-get update -y; apt-get upgrade -y; wget --no-check-certificate https://raw.githubusercontent.com/andreluiz81/hb20/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 ```
